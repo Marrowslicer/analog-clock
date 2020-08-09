@@ -1,0 +1,11 @@
+﻿<Window x:Class="AnalogСlock.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:AnalogСlock"
+        Title="Analog Сlock"
+        Height="384"
+        Width="384">
+    <Grid>
+        <local:AnalogClockUserControl/>
+    </Grid>
+</Window>
